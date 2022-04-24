@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EXStevens. A Big NOOB.
+- 👋 Hi, I’m @EXStevens. A Confident **NOOB**.
 - 👀 I’m interested in Developing, Operating & Things Interesting.
-- 🌱 I’m currently learning C++, Python.
-- ✉️ admin@expcs.net
+- 🌱 I’m currently learning C++, MATLAB, Nginx.
+- ✉️ cstevens@expcs.net
 
 <!---
 EXStevens/EXStevens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
