@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EXStevens. A Confident **NOOB**.
-- 👀 I’m interested in Developing, Operating & Things Interesting.
-- 🌱 I’m currently learning C++, MATLAB, Nginx.
+- 👋 Hi, I’m Charlie Stevens. A Student Growing in a Suffocating Dessert.
+- 👀 I’m interested in C++ & Things Interesting.
+- 🌱 I’m currently learning C++, Linux.
 - ✉️ cstevens@expcs.net
 
 <!---
